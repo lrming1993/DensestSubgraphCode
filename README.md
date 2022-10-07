@@ -48,7 +48,7 @@ The code and results of Min-DS method
 
 - minimal_sub/
 
-The code and results of Min-SDS method on theta=0.91; the code and results of Min-SDS method on different theta values
+The code and results of Min-SDS method on theta=0.85; the code and results of Min-SDS method on different theta values
 
 
 - mincut/
